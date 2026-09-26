@@ -1,3 +1,11 @@
+<picture>
+  <img width="100%" src="https://raw.githubusercontent.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi/main/assets/cover-data.png" alt="Collaborative coursework: Sentiment analysis cover.">
+</picture>
+
+**Collaborative coursework · Sentiment analysis**
+
+[Profile](https://github.com/Ramtin-Mojtahedi) · [Project directory](https://github.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi/blob/main/REPOSITORY_INDEX.md)
+
 # Assignment 4 — Sentiment Analysis
 
 Archived collaborative coursework by Albin Baby and Ramtin Mojtahedi.
